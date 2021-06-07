@@ -26,4 +26,27 @@ Softwares :
 # Dataset
 	
   Dataset - https://www.kaggle.com/tawsifurrahman/covid19-radiography-database
+  
+ 
+# Flutter Application
 	
+  1. Splash Window
+  
+	  ![](Images/1.jpg)
+	
+	
+  2. How to use?
+    
+	  ![](Images/2.jpg)
+	
+	
+  3. Home Tab
+  
+	  ![](Images/3.jpg)
+	
+	
+  4. About Section
+  
+	  ![](Images/4.jpg)
+	
+
