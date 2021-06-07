@@ -6,7 +6,7 @@ The objective of this project is to create a machine learning based flutter appl
 ## Description 
 In this project, we have developed a flutter application based on machine learning that can take chest x-rays as input and classify them into two categories i.e. COVID and Normal
 
-It allows the user to use camera or any saved image of chest X-ray to as to predict one of the class of classification with certain confidence score.
+It allows the user to use camera or any saved image of chest X-ray so as to predict one of the class of classification with certain confidence score.
 
 Operating System - Windows 10
 
